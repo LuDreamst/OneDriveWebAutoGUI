@@ -27,11 +27,11 @@ Pyautogui captures regional screen frames, identifies and locates required visua
 ## 5.TODO
 Nothing to do. It's just a useless tiny design. It just works, generally.  
 ## 6.注意事项/Tips  
-1.开始执行时，勿遮挡checkMark样式；  
+1.开始执行时，勿遮挡checkMark样式，如果没有，手动勾选一个；  
 2.运行期间，在除等待下载完成之外的环节操控键鼠可能导致错误；  
 3.推荐将Web界面展开至全屏。  
 
-1.Do not block the CheckMark when the script starts running;  
+1.Do not block checkMark when the script starts running; if no checkMarks, just mark one.    
 2.During operation, manipulating the mouse and keyboard in any phase other than waiting for download completion may cause errors;  
 3.It is recommended to expand the web interface to full screen.
 
